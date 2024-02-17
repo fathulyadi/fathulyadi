@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **fathulyadi/fathulyadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Content -->
+
+My name is **Muhammad Fathul Yadi**. <br>
+I'm currently learning **Cloud Computing**. <br>
+I'm just an ordinary person, so don't hope anything from me. Ty👌
